@@ -7,8 +7,8 @@ The project was created to the study drag&drop method in React.
 ## Installation
 
 ```sh
-git clone https://github.com/Ickem/weather-forecast-react-redux
-cd weather-forecast-react-redux
+git clone https://github.com/Ickem/Constructor
+cd Constructor
 yarn install
 yarn start
 ```
