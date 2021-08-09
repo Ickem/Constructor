@@ -1,4 +1,4 @@
-# Weather-Forecast
+# Constructor
 
 The project was created to the study drag&drop method in React. 
 
