@@ -1,7 +1,9 @@
 .dashboard{
-    width: 85%;
+    width: 90%;
     padding: 25px;
-    background-color: green;
+    background: linear-gradient( #bbb, transparent 1px), linear-gradient( 90deg, #bbb, transparent 1px);
+    background-size: 15px 15px;
+    background-position: center center;
 }
 .drag-over{
 
@@ -9,11 +11,13 @@
 
 .drag-over::after{
     content: "Drop here";
-    position: relative;
     display: inline-block;
     width: 100%;
     height: 25px;
-    background-color: #FFBA10;
+    text-align: center;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 700;
     border-color: black;
     border-style: dotted;
 }

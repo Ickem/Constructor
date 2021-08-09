@@ -9,7 +9,6 @@ const Dashboard = ({element,drag}) => (
         onDrop={e=>drag.dropHandler(e, element)}
         className="dashboard"
     >
-
     </main>
 );
 
