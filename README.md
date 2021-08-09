@@ -2,7 +2,7 @@
 
 The project was created to the study drag&drop method in React. 
 
-![example of work](https://github.com/Ickem/Constructor/blob/master/example.gif)
+![example of work](https://github.com/Ickem/Constructor/blob/main/example.gif)
 
 ## Installation
 
